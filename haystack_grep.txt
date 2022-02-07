@@ -1,0 +1,15 @@
+This text contains both a haystack and a needle that must be found.
+for this (needle) to be found many factors must come into play.
+This line however does not contain a line to match
+
+echo -r "Hello My Name"
+echo -r "My Name"
+echo -r 'Hello My Name'
+6666
+666
+777
+888
+11
+2222
+sed
+my name is tom clancy
